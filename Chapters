@@ -1,14 +1,87 @@
 {
   "title": "<Curator>",
-  "description": "<One who rises with money, will fall with money!/In the near future, new powerful devices called relics were found. Their powers were out of this world… and so earth was destroyed./But even in this devastated state, there were three things that survived; cockroaches, scammers, and government officials!/The second son of an elite family, Hong You Tae, is smart and intelligent with great social skills. He's also a candidate worthy of joining the relic management department!>",
+  "description": "<One who rises with money, will fall with money! In the near future, new powerful devices called relics were found. Their powers were out of this world… and so earth was destroyed. But even in this devastated state, there were three things that survived; cockroaches, scammers, and government officials! The second son of an elite family, Hong You Tae, is smart and intelligent with great social skills. He's also a candidate worthy of joining the relic management department!>",
   "artist": "<Kim Dong woo>",
   "author": "<Song Jun hyeok>",
   "cover": "<https://uploads.mangadex.org//covers/f41d5581-b072-47aa-a6ee-ca0a62edadff/3ed8567f-22bb-4b31-971c-cc8c4e045c75.jpg>",
   "chapters": {
-    "<1>": {
-      "title": "<Ch 1>",
+    "<3>": {
+      "title": "<Ch 3>",
+      "volume": "<0>",
       "groups": {
         "<No Sleep Scans>": "/proxy/api/imgur/chapter/<QGW8MPA>/"
+      },
+      "last_updated": "1616368746"
+    },
+    "<4>": {
+      "title": "<Ch 4>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<jKNdbN4>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<5>": {
+      "title": "<Ch 5>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<yC1ugkk>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<6>": {
+      "title": "<Ch 6>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<yUuHyJy>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<7>": {
+      "title": "<Ch 7>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<WF0Hssu>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<8>": {
+      "title": "<Ch 8>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<bjKUzcM>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<9>": {
+      "title": "<Ch 9>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<baLDDUm>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<10>": {
+      "title": "<Ch 10>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<2FevOy0>/"
+      },
+      "last_updated": "1616368746"
+    },
+        "<11>": {
+      "title": "<Ch 11>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<iJGo4l4>/"
+      },
+      "last_updated": "1616368746"
+    },
+            "<12>": {
+      "title": "<Ch 12>",
+      "volume": "<0>",
+      "groups": {
+        "<No Sleep Scans>": "/proxy/api/imgur/chapter/<rzm87DU>/"
       },
       "last_updated": "1616368746"
     }
